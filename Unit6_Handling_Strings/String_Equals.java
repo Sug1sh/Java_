@@ -9,5 +9,6 @@ public class String_Equals {
         String s5= "mohit";
         System.out.println(s1.equals(s5));
         System.out.println(s3.equals(s4));
+        System.out.println(s1+s3);          //String Concat()   
     }   
 }
